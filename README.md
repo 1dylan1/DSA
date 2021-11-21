@@ -5,8 +5,7 @@ Contains all files for *most* algorithms I've done either in or out of class cur
 
 **Maximum Spanning Tree (MaximumST)**
 
-maximumST is a function that should take an n ×n vector (representing the adjacency matrix of a graph) as input and return the value
-of the maximum spanning tree of the graph defined by the n ×n vector.
+A function that takes an n*n vector(adjacency matrix) and returns the maximum spanning tree value.
 
 _Output Example_
 
@@ -16,10 +15,7 @@ _Output Example_
 
 **Floyd's Algorithm (FloydsAlgorithm)**
 
-A function that should take an n × n vector (representing the adjacency matrix of a
-graph) and a value i between 1 and n as input and return the n × n vector representing the matrix
-computed after the ith stage of Floyd’s algorithm. For the purposes of this program, infinity (∞)
-will be represented as −1
+A function that takes an n*n vector(adjacency matrix) and a value from i-n. Returns the i-th stage of the algorithm. Infinity is defined as -1 in the result.
 
 _Output Example_
 
@@ -27,8 +23,9 @@ _Output Example_
 ![image](https://user-images.githubusercontent.com/69823133/142751223-e1b11b65-66d6-4b8b-a8d1-9f9e3ec83385.png)
 
 
-**Overlapping Intervals (OverlappingIntervals)**
+**Overlapping Intervals **
 
+A function that takes two vectors (of each the same size) and returns the maximum number of intervals that overlap. (First vector is already sorted). A starting range vector and an end range vector.
 
 _Output Example_
 
@@ -38,3 +35,11 @@ _Output Example_
 ![image](https://user-images.githubusercontent.com/69823133/142751325-6cf9aaa8-43ec-4a30-a826-f25017d916d0.png)
 
 
+**Tug of War (TugOfWar)**
+
+A function that takes a vector which is a weight of each individual(think score) and divides them up as evenly as possible into two teams.
+
+_Output Example_
+
+![image](https://user-images.githubusercontent.com/69823133/142751674-4a79cd91-1271-4390-a38a-e3eab4ab72de.png)
+**Teams are 1 score apart.**
