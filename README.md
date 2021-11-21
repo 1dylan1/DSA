@@ -3,7 +3,7 @@ Contains all files for *most* algorithms I've done either in or out of class cur
 
 
 
-**Maximum Spanning Tree (MaximumST)**
+**Maximum Spanning Tree (MST)**
 
 A function that takes an n*n vector(adjacency matrix) and returns the maximum spanning tree value.
 
@@ -23,7 +23,7 @@ _Output Example_
 ![image](https://user-images.githubusercontent.com/69823133/142751223-e1b11b65-66d6-4b8b-a8d1-9f9e3ec83385.png)
 
 
-**Overlapping Intervals **
+**Overlapping Intervals (Intervals) **
 
 A function that takes two vectors (of each the same size) and returns the maximum number of intervals that overlap. (First vector is already sorted). A starting range vector and an end range vector.
 
@@ -35,7 +35,7 @@ _Output Example_
 ![image](https://user-images.githubusercontent.com/69823133/142751325-6cf9aaa8-43ec-4a30-a826-f25017d916d0.png)
 
 
-**Tug of War (TugOfWar)**
+**Tug of War (TOW)**
 
 A function that takes a vector which is a weight of each individual(think score) and divides them up as evenly as possible into two teams.
 
