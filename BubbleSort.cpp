@@ -21,6 +21,8 @@ void printVector(vector<int> list) {
 	}
 	cout << endl;
 }
+
+//Testing 
 int main() {
 
 	vector<int> list = { 4, 3, 2, 1 ,5 };
