@@ -1,5 +1,5 @@
 # All-Algorithms
-Contains all files for *most* algorithms I've done either in or out of class curriculum. Problem descriptions and visualizations are below.
+Contains all files for some of the more interesting algorithms I've done.
 
 
 
