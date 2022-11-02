@@ -41,6 +41,8 @@ A function that takes a vector which is a weight of each individual(think score)
 
 _Output Example_
 
+
 ![image](https://user-images.githubusercontent.com/69823133/142751674-4a79cd91-1271-4390-a38a-e3eab4ab72de.png)
+
 
 **Teams are 1 score apart.**
